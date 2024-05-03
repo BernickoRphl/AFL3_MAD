@@ -1,18 +1,18 @@
 //
-//  ProfileEditor.swift
-//  AFL3_BERNICKORPHL
+//  LandmarkSettings.swift
+//  MacLandmarks
 //
-//  Created by MacBook Pro on 26/04/24.
+//  Created by MacBook Pro on 02/05/24.
 //
 
 import SwiftUI
 
-struct ProfileEditor: View {
+struct LandmarkSettings: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    ProfileEditor()
+    LandmarkSettings()
 }
